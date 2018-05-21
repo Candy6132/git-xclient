@@ -1,0 +1,326 @@
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.05~ (Kor) executed. (1.5.30.0)
+2018/05/21 21:18
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2793Mhz
+RAM 			: 1MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Enum display settings.
+> Screen size = 1024 x 768.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: Intel
+Render		: Intel(R) HD Graphics 4600
+OpenGL version	: 4.3.0 - Build 10.18.14.4578
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: G쿽쐍iki (Conexant SmartAudio HD)
+Sound Card Driver	: {0.0.0.00000000}.{e2f08b8d-58c2-4b87-8350-c101815212e2} (0.0.0.0)
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00000415
+-------------------------------------------------------------------------------------
+> Loading ok.
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf01.tga(0x00007695)->Data\World78\leaf01.jpg
+[Connect to Server] ip address = 95.160.44.167, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+> Server group selected - 24
+Success Receive Server List.
+> Server selected - WykopMu.pl-1 : 24-0
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 95.160.44.167, port = 55901
+[Socket Closed][Clear PacketQueue]
+Destroy
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.05~ (Kor) executed. (1.5.30.0)
+2018/05/21 22:04
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2793Mhz
+RAM 			: 1MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Enum display settings.
+> Screen size = 1024 x 768.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: Intel
+Render		: Intel(R) HD Graphics 4600
+OpenGL version	: 4.3.0 - Build 10.18.14.4578
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: G쿽쐍iki (Conexant SmartAudio HD)
+Sound Card Driver	: {0.0.0.00000000}.{e2f08b8d-58c2-4b87-8350-c101815212e2} (0.0.0.0)
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00000415
+-------------------------------------------------------------------------------------
+> Loading ok.
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf01.tga(0x00007695)->Data\World78\leaf01.jpg
+[Connect to Server] ip address = 95.160.44.167, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+> Server group selected - 24
+Success Receive Server List.
+> Server group selected - 24
+Success Receive Server List.
+> Server selected - WykopMu.pl-1 : 24-0
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 95.160.44.167, port = 55901
+> Login Request.
+> Try to Login "Rezun"
+> Request Character list
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf01.jpg(0x00007695)->Data\World79\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf01.tga(0x00007695)->Data\World79\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf02.jpg(0x00007696)->Data\World79\leaf02.jpg
+> Character scene init success.
+> Character selected <1> "Candy"
+> Main Scene init success. 2018/05/21 22:04
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf01.jpg(0x00007695)->Data\World1\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf02.jpg(0x00007696)->Data\World1\leaf02.jpg
+[ResourceGuard] Error: cannot find the RG data.
+서버와의 접속종료.
+[Socket Closed][Clear PacketQueue]
+[Socket Closed][Clear PacketQueue]
+Destroy
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.05~ (Kor) executed. (1.5.30.0)
+2018/05/21 22:24
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2793Mhz
+RAM 			: 1MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Enum display settings.
+> Screen size = 1024 x 768.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: Intel
+Render		: Intel(R) HD Graphics 4600
+OpenGL version	: 4.3.0 - Build 10.18.14.4578
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: G쿽쐍iki (Conexant SmartAudio HD)
+Sound Card Driver	: {0.0.0.00000000}.{e2f08b8d-58c2-4b87-8350-c101815212e2} (0.0.0.0)
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00000415
+-------------------------------------------------------------------------------------
+> Loading ok.
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf01.tga(0x00007695)->Data\World78\leaf01.jpg
+[Connect to Server] ip address = 95.160.44.167, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+> Server group selected - 24
+Success Receive Server List.
+> Server selected - WykopMu.pl-1 : 24-0
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 95.160.44.167, port = 55901
+> Login Request.
+> Try to Login "Rezun"
+> Request Character list
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf01.jpg(0x00007695)->Data\World79\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf01.tga(0x00007695)->Data\World79\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf02.jpg(0x00007696)->Data\World79\leaf02.jpg
+> Character scene init success.
+> Character selected <1> "Candy"
+> Main Scene init success. 2018/05/21 22:24
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf01.jpg(0x00007695)->Data\World1\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf02.jpg(0x00007696)->Data\World1\leaf02.jpg
+[ResourceGuard] Error: cannot find the RG data.
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\lorencia.tga(0x00007A13)->Data\Interface\Kalima.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.jpg(0x00007695)->Data\World19\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World19\leaf01.tga(0x00007695)->Data\World19\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf02.jpg(0x00007696)->Data\World19\leaf02.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\Kalima.tga(0x00007A13)->Data\Interface\chaoscastle.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World19\leaf01.jpg(0x00007695)->Data\World1\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World19\leaf02.jpg(0x00007696)->Data\World1\leaf02.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\chaoscastle.tga(0x00007A13)->Data\Interface\lorencia.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\lorencia.tga(0x00007A13)->Data\Interface\Kalima.tga
+[Socket Closed][Clear PacketQueue]
+Destroy
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.05~ (Kor) executed. (1.5.30.0)
+2018/05/21 22:54
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2793Mhz
+RAM 			: 1MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Enum display settings.
+> Screen size = 1024 x 768.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: Intel
+Render		: Intel(R) HD Graphics 4600
+OpenGL version	: 4.3.0 - Build 10.18.14.4578
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: G쿽쐍iki (Conexant SmartAudio HD)
+Sound Card Driver	: {0.0.0.00000000}.{e2f08b8d-58c2-4b87-8350-c101815212e2} (0.0.0.0)
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00000415
+-------------------------------------------------------------------------------------
+> Loading ok.
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf01.tga(0x00007695)->Data\World78\leaf01.jpg
+[Connect to Server] ip address = 95.160.44.167, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+> Server group selected - 24
+Success Receive Server List.
+> Server selected - WykopMu.pl-1 : 24-0
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 95.160.44.167, port = 55901
+> Login Request.
+> Try to Login "Rezun"
+> Request Character list
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf01.jpg(0x00007695)->Data\World79\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf01.tga(0x00007695)->Data\World79\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf02.jpg(0x00007696)->Data\World79\leaf02.jpg
+> Character scene init success.
+> Character selected <1> "Candy"
+> Main Scene init success. 2018/05/21 22:54
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf01.jpg(0x00007695)->Data\World1\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf02.jpg(0x00007696)->Data\World1\leaf02.jpg
+[ResourceGuard] Error: cannot find the RG data.
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\lorencia.tga(0x00007A13)->Data\Interface\Kalima.tga
+서버와의 접속종료.
+[Socket Closed][Clear PacketQueue]
+[Socket Closed][Clear PacketQueue]
+Destroy
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.05~ (Kor) executed. (1.5.30.0)
+2018/05/21 22:58
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium Pro 2793Mhz
+RAM 			: 1MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+> To read config.ini.
+> gg init success.
+-------------------------------------------------------------------------------------
+> Enum display settings.
+> Screen size = 1024 x 768.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: Intel
+Render		: Intel(R) HD Graphics 4600
+OpenGL version	: 4.3.0 - Build 10.18.14.4578
+Max Texture size	: 16384 x 16384
+Max Viewport size	: 16384 x 16384
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: G쿽쐍iki (Conexant SmartAudio HD)
+Sound Card Driver	: {0.0.0.00000000}.{e2f08b8d-58c2-4b87-8350-c101815212e2} (0.0.0.0)
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00000415
+-------------------------------------------------------------------------------------
+> Loading ok.
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf01.tga(0x00007695)->Data\World78\leaf01.jpg
+[Connect to Server] ip address = 95.160.44.167, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+> Server group selected - 24
+Success Receive Server List.
+> Server selected - WykopMu.pl-1 : 24-0
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 95.160.44.167, port = 55901
+> Login Request.
+> Try to Login "Rezun"
+> Request Character list
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf01.jpg(0x00007695)->Data\World79\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf01.tga(0x00007695)->Data\World79\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World78\leaf02.jpg(0x00007696)->Data\World79\leaf02.jpg
+> Character scene init success.
+> Character selected <1> "Candy"
+> Main Scene init success. 2018/05/21 22:58
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf01.jpg(0x00007695)->Data\World1\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World79\leaf02.jpg(0x00007696)->Data\World1\leaf02.jpg
+[ResourceGuard] Error: cannot find the RG data.
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\lorencia.tga(0x00007A13)->Data\Interface\Kalima.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.jpg(0x00007695)->Data\World1\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\Kalima.tga(0x00007A13)->Data\Interface\lorencia.tga
