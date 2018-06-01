@@ -252,7 +252,7 @@
 236 1 "Golden Archer"
 237 1 "Charon"
 238 1 "Chaos Goblin"        
-239 1 "Arena Guard"        
+239 1 "Librarian"        
 240 1 "Baz the Vault Keeper"        
 241 1 "Guild Master"     
 242 1 "Elf Lala"       
